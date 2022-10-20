@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 😄 I am Vuong Huu Hieu.
+## 😄 I am Vuong Huu Hieu. I am learning at FPT University.
 ## Certificates:
 Software Development Lifecycle: </br>
 https://www.coursera.org/account/accomplishments/specialization/certificate/94E3LN2KMRKK
