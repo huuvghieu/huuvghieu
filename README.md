@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 Software Development Lifecycle: </br>
 https://www.coursera.org/account/accomplishments/specialization/certificate/94E3LN2KMRKK
 ## Honors/Awards:
-
-
+[HonorStudent.pdf](https://github.com/huuvghieu/huuvghieu/files/9825972/HonorStudent.pdf)
