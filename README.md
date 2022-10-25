@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   
 </div>  
 <p align="justify"> 
-Hello 🖐️ friends, welcome to my github
-- 😄 I’m Vuong Huu Hieu.
-- 🌱 I’m learning at FPT University HCM.
-- 🔭 My major is Software Engineering.
+Hello 🖐️ friends, welcome to my github </br>
+- 😄 I’m Vuong Huu Hieu. </br>
+- 🌱 I’m learning at FPT University HCM. </br>
+- 🔭 My major is Software Engineering. </br>
 
 </p>
 
