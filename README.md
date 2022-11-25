@@ -1,4 +1,4 @@
-<h1 align="center">
+
   Hi there 👋
   <!--
 **huuvghieu/huuvghieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm huuvghieu
 
+<h1 align="center">
+# 👋 Hi there! I'm huuvghieu
+</h1>
 <div align="left">
 
 [![Instagram](https://img.shields.io/badge/huuvghieu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henxaoxaott/)
