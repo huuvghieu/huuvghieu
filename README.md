@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 </h1>
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/huuvghieu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henxaoxaott/)
 [![github](https://img.shields.io/badge/huuvghieu-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huuvghieu/)
-[![Facebook](https://img.shields.io/badge/huuvghieu-%23E4405F.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hieu.vuong.7967)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hieu.vuong.7967)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henxaoxaott/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19649141/huuvghieu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieu-vuong-bb4557232/)  
+
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github </br>
