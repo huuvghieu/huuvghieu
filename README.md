@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="www.linkedin.com/in/hieu-vuong-bb4557232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huuvghieu" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/hieu.vuong.7967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huuvghieu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vhhieeuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huuvghieu" height="30" width="40" /></a>
 
