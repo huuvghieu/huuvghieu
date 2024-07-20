@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hieu Vuong</h1>
 <h3 align="center">About me</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/bringglobal-computer-laptop-typing-EauwThrXwq0EWngOcT">
 
 
 
