@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Mobile Development** by Sefl
 
-- 📫 How to reach me **ownhieu0804@gmail.com**
+- 📫 How to reach me **hieuvh0804@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
