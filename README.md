@@ -2,15 +2,11 @@
 <h3 align="center">About me</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3huZmVka3NvYTVscTBvdHl1enEycTlkbzg5NndlNGlqYjFlaThzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EauwThrXwq0EWngOcT/200.webp">
 
-
-
 - 🔭 A passionate Seft-taught Mobile Developer
 
 - 🌱 I’m currently learning **Mobile Development** by Sefl
 
 - 📫 How to reach me **hieuvh0804@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
