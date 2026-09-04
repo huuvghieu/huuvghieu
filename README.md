@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hieu Vuong</h1>
 <h3 align="center">About me</h3>
-<img align="right" alt="Coding" width="400" 
 
 - 🔭 A passionate Seft-taught Mobile Developer
 
